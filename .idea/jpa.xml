@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PersistenceUnitSettings">
+    <persistence-units>
+      <persistence-unit moduleName="Grupo_5_.Gestion-de-un-Gimnacio.main" name="Grupo_5_.Gestion-de-un-Gimnacio.main" framework="JPA" ormUnit="Grupo_5_.Gestion-de-un-Gimnacio.main:Grupo_5_.Gestion-de-un-Gimnacio.main" defaultDataSourceId="bed11aa3-dafa-4102-9d19-06d8830e0339" />
+    </persistence-units>
+  </component>
+</project>
