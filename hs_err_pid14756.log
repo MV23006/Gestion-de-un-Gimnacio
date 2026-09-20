@@ -27,10 +27,10 @@
 
 ---------------  S U M M A R Y ------------
 
-Command Line: -Dfile.encoding=UTF-8 -Duser.country=SV -Duser.language=es -Duser.variant Grupo_5_Gestion_de_un_Gimnacio.GestionDeUnGimnacioApplication
+Command Line: -Dfile.encoding=UTF-8 -Duser.country=SV -Duser.language=es -Duser.variant Grupo_5_Gestion_de_un_Gimnasio.GestionDeUnGimnacioApplication
 
 Host: Intel(R) Core(TM) i5-3210M CPU @ 2.50GHz, 4 cores, 3G,  Windows 10 , 64 bit Build 19041 (10.0.19041.7725)
-Time: Tue Sep 15 01:39:05 2026 Hora estándar, América Central elapsed time: 814.324225 seconds (0d 0h 13m 34s)
+Time: Tue Sep 15 01:39:05 2026 Hora estï¿½ndar, Amï¿½rica Central elapsed time: 814.324225 seconds (0d 0h 13m 34s)
 
 ---------------  T H R E A D  ---------------
 
@@ -664,7 +664,7 @@ symbol engine: initialized successfully - sym options: 0x614 - pdb path: .;C:\Pr
 
 VM Arguments:
 jvm_args: -Dfile.encoding=UTF-8 -Duser.country=SV -Duser.language=es -Duser.variant 
-java_command: Grupo_5_Gestion_de_un_Gimnacio.GestionDeUnGimnacioApplication
+java_command: Grupo_5_Gestion_de_un_Gimnasio.GestionDeUnGimnacioApplication
 java_class_path (initial): C:\Users\Dell\Downloads\Gestion-de-un-Gimnacio\Gestion-de-un-Gimnacio\build\classes\java\main;C:\Users\Dell\Downloads\Gestion-de-un-Gimnacio\Gestion-de-un-Gimnacio\build\resources\main;C:\Users\Dell\.gradle\caches\modules-2\files-2.1\org.springframework.boot\spring-boot-devtools\4.1.1\8da7a6f8ac27ad1153c41909b24bef4105d1fbea\spring-boot-devtools-4.1.1.jar;C:\Users\Dell\.gradle\caches\modules-2\files-2.1\org.springframework.boot\spring-boot-starter-webmvc\4.1.1\7d25a0b22f776c7cc0cc18a88188113400b2b011\spring-boot-starter-webmvc-4.1.1.jar;C:\Users\Dell\.gradle\caches\modules-2\files-2.1\org.springframework.boot\spring-boot-starter-data-jpa\4.1.1\e76828cd073e4eb1ae72fbcd07bf32c76baa76f6\spring-boot-starter-data-jpa-4.1.1.jar;C:\Users\Dell\.gradle\caches\modules-2\files-2.1\com.h2database\h2\2.4.240\686180ad33981ad943fdc0ab381e619b2c2fdfe5\h2-2.4.240.jar;C:\Users\Dell\.gradle\caches\modules-2\files-2.1\org.springframework.boot\spring-boot-starter-jackson\4.1.1\f8cd6a81994a207a808564515e5104548d1967bb\spring-boot-starter-jackson-4.1.1.jar;C:\Users\Dell\.gradle\caches\modules-2\files-2.1\org.springframework.boot\spring-boot-starter-tomcat\4.1.1\8a7b2b2fd2ec40ed7e56359fb68c9a8b5fde315c\spring-boot-starter-tomcat-4.1.1.jar;C:\Users\Dell\.gradle\caches\modules-2\files-2.1\org.springframework.boot\spring-boot-starter-jdbc\4.1.1\6159a34f1463c146ad1d0b4f6532a61a9fc9f5b5\spring-boot-starter-jdbc-4.1.1.jar;C:\Users\Dell\.gradle\caches\modules-2\files-2.1\org.springframework.boot\spring-boot-starter\4.1.1\50fe6a89fa4fd26e7caaec909ab1c4cc9afde5d4\spring-boot-starter-4.1.1.jar;C:\Users\Dell\.gradle\caches\modules-2\files-2.1\org.springframework.boot\spring-boot-autoconfigure\4.1.1\53c1c604301b4183faa480a5b9f2fd86a2f043c3\spring-boot-autoconfigure-4.1.1.jar;C:\Users\Dell\.gradle\caches\modules-2\files-2.1\org.springframework.boot\spring-boot-webmvc\4.1.1\3057d155bc66412ad906ecdd488e0fd617589151\spring-boot-webmvc-4.1.1.jar;C:\Users\Dell\.gradle\caches\mod
 Launcher Type: SUN_STANDARD
 

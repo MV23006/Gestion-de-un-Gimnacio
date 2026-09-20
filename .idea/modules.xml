@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Gestion-de-un-Gimnacio.iml" filepath="$PROJECT_DIR$/.idea/Gestion-de-un-Gimnacio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Gestion-de-un-Gimnasio.iml" filepath="$PROJECT_DIR$/.idea/Gestion-de-un-Gimnasio.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Grupo_5_.Gestion-de-un-Gimnacio.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Grupo_5_.Gestion-de-un-Gimnacio.main.iml" />
     </modules>
   </component>

@@ -922,7 +922,7 @@ instanceKlass org/hibernate/metamodel/internal/AbstractPojoInstantiator
 instanceKlass org/hibernate/property/access/spi/SetterMethodImpl
 instanceKlass org/hibernate/property/access/spi/GetterMethodImpl
 instanceKlass org/hibernate/property/access/internal/PropertyAccessEmbeddedImpl
-instanceKlass Grupo_5_Gestion_de_un_Gimnacio/model/Socio$HibernateInstantiator
+instanceKlass Grupo_5_Gestion_de_un_Gimnasio/model/Socio$HibernateInstantiator
 instanceKlass net/bytebuddy/implementation/MethodCall$TargetHandler$ForConstructingInvocation
 instanceKlass net/bytebuddy/implementation/MethodCall$TargetHandler$Resolved
 instanceKlass net/bytebuddy/implementation/MethodCall$MethodInvoker$ForContextualInvocation
@@ -4460,7 +4460,7 @@ instanceKlass org/springframework/data/domain/Slice
 instanceKlass org/springframework/data/domain/Sort
 instanceKlass org/springframework/data/domain/Example
 instanceKlass org/springframework/data/core/ReactiveWrappers
-instanceKlass Grupo_5_Gestion_de_un_Gimnacio/model/Socio
+instanceKlass Grupo_5_Gestion_de_un_Gimnasio/model/Socio
 instanceKlass org/springframework/util/ConcurrentLruCache$AddTask
 instanceKlass org/springframework/util/ConcurrentLruCache$WriteOperations
 instanceKlass org/springframework/util/ConcurrentLruCache$ReadOperations
@@ -4471,7 +4471,7 @@ instanceKlass org/springframework/data/core/TypeInformation
 instanceKlass org/springframework/data/repository/core/CrudMethods
 instanceKlass org/springframework/data/repository/core/support/AbstractRepositoryMetadata
 instanceKlass org/springframework/data/repository/core/RepositoryMetadata
-instanceKlass Grupo_5_Gestion_de_un_Gimnacio/repository/SocioRepository
+instanceKlass Grupo_5_Gestion_de_un_Gimnasio/repository/SocioRepository
 instanceKlass org/springframework/data/jpa/repository/config/JpaRepositoryConfigExtension$LazyJvmAgent
 instanceKlass org/springframework/data/repository/config/DefaultRepositoryConfiguration
 instanceKlass org/springframework/asm/ByteVector
@@ -4809,8 +4809,8 @@ instanceKlass org/springframework/scheduling/annotation/AsyncConfigurer
 instanceKlass org/springframework/boot/autoconfigure/condition/ConditionalOnThreading
 instanceKlass org/springframework/boot/autoconfigure/condition/ConditionalOnProperties
 instanceKlass org/springframework/boot/autoconfigure/condition/ConditionalOnProperty
-instanceKlass Grupo_5_Gestion_de_un_Gimnacio/service/SocioService
-instanceKlass Grupo_5_Gestion_de_un_Gimnacio/controller/SocioController
+instanceKlass Grupo_5_Gestion_de_un_Gimnasio/service/SocioService
+instanceKlass Grupo_5_Gestion_de_un_Gimnasio/controller/SocioController
 instanceKlass org/springframework/boot/web/servlet/RegistrationBean
 instanceKlass org/springframework/boot/web/servlet/ServletContextInitializer
 instanceKlass jakarta/servlet/ServletRegistration
@@ -6164,7 +6164,7 @@ instanceKlass org/springframework/boot/logging/java/JavaLoggingSystem$Factory
 instanceKlass org/springframework/boot/logging/DelegatingLoggingSystemFactory
 instanceKlass org/springframework/boot/logging/LoggingSystemFactory
 instanceKlass org/springframework/boot/logging/LoggingSystem
-instanceKlass Grupo_5_Gestion_de_un_Gimnacio/GestionDeUnGimnacioApplication
+instanceKlass Grupo_5_Gestion_de_un_Gimnasio/GestionDeUnGimnacioApplication
 instanceKlass java/io/FilePermissionCollection$1
 instanceKlass java/net/URLClassLoader$1
 instanceKlass org/springframework/boot/devtools/restart/FailureHandler
@@ -6986,7 +6986,7 @@ instanceKlass java/util/zip/ZipConstants
 instanceKlass java/lang/Void
 instanceKlass java/lang/PublicMethods$Key
 instanceKlass java/lang/PublicMethods$MethodList
-instanceKlass Grupo_5_Gestion_de_un_Gimnacio/GestionDeUnGimnacioApplication
+instanceKlass Grupo_5_Gestion_de_un_Gimnasio/GestionDeUnGimnacioApplication
 instanceKlass sun/security/util/Debug
 instanceKlass java/security/SecureClassLoader$DebugHolder
 instanceKlass java/security/PermissionCollection
