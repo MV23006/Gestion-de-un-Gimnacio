@@ -1,0 +1,29 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: gestion-gimnasio-deployment
+  labels:
+    app: gestion-gimnasio
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: gestion-gimnasio
+  template:
+    metadata:
+      labels:
+        app: gestion-gimnasio
+    spec:
+      containers:
+        - name: gestion-gimnasio
+          image: gestion-gimnasio:1.0
+          imagePullPolicy: IfNotPresent
+          ports:
+            - containerPort: 8081
+          resources:
+            limits:
+              memory: "512Mi"
+              cpu: "500m"
+            requests:
+              memory: "256Mi"
+              cpu: "250m"
